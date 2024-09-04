@@ -1,0 +1,4 @@
+.venv
+crawled_urls.txt
+/crawled_pages
+.DS_Store
