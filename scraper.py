@@ -62,7 +62,7 @@ def crawl_website(base_url):
     return visited_urls
 
 if __name__ == "__main__":
-    base_url = "https://www.sterlinghousing.com/ann-arbor-mi/sterling-arbor-blu"
+    base_url = "https://www.livevue32.com/"
     os.makedirs('crawled_pages', exist_ok=True)
     crawled_urls = crawl_website(base_url)
     
