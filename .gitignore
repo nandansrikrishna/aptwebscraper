@@ -3,3 +3,11 @@ crawled_urls.txt
 /crawled_pages
 .DS_Store
 arborblu*
+livevuePA*
+old*
+image_sources.txt
+format.py
+.env
+__pycache__
+scraped_site.html
+4o.py
